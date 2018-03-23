@@ -1,0 +1,12 @@
+{
+  "name": "Immigrant-Labour-Blockchian-demo",
+  "version": "0.1.0",
+  "description": "Immigrant Labour Blockchian demo",
+  "dependencies": {
+    "truffle-default-builder": "^2.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Jithinqw/Kerla_startupmission_Hackathon"
+  }
+}
